@@ -1,6 +1,6 @@
 {
     "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
+    "pageAccessToken": "EAAEcaB2dlCABAFZCGbZC5t6kh7iZBo7VNDlPzHDJDMrxmU9ZCP2EbH56ZAIkqQsjakczh10bKnfZArFLLWOuJTZAv8UnJxWTjaU7XG5UKj4KpU17UFzoEB3QFasamMHuGyRCLnz747ANeaap5cqBIf2l5eSFmzZBsfIAkkCA9HSrGOZBev9zdJEvi",
+    "validationToken": "my_app_is_my_chat",
     "serverURL": ""
 }
